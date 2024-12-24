@@ -1,2 +1,2 @@
-# sql-query-tuning
+# SQL Query Tuning
 SQL Query Tuning
